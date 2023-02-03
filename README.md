@@ -1,2 +1,0 @@
-# junit
-Repositório de testes
